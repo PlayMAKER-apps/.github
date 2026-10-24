@@ -10,29 +10,11 @@
 
 ## Our tools
 
-### WebMAKER
-
-<img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/webmaker.png" alt="WebMAKER logo" width="112">
-
-Customizable sports websites with club content, match results and statistics, plus a desktop publishing studio.
-
-**Status: beta testing on Nerone Basket Anzio.** Explore the [pilot code](https://github.com/mich1803/nerone-basket-anzio). A standalone WebMAKER release is not available yet.
-
-### TagMAKER
-
-<img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/tagmaker.png" alt="TagMAKER logo" width="112">
-
-Lightweight manual sports-video tagging with configurable event levels and exportable match data.
-
-**Status: planned / early development.** Coming soon.
-
-### VideoMAKER
-
-<img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/videomaker.png" alt="VideoMAKER logo" width="112">
-
-Automated match editing and highlights from clips, presets and tagged events.
-
-**Status: planned / early development.** Coming soon.
+| Logo | Project |
+| :---: | :--- |
+| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/webmaker.png" alt="WebMAKER logo" width="104"> | **WebMAKER**<br>Customizable sports websites with club content, match results and statistics, plus a desktop publishing studio.<br><br>**Status:** beta testing on Nerone Basket Anzio. Explore the [pilot code](https://github.com/mich1803/nerone-basket-anzio). A standalone WebMAKER release is not available yet. |
+| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/tagmaker.png" alt="TagMAKER logo" width="104"> | **TagMAKER**<br>Lightweight manual sports-video tagging with configurable event levels and exportable match data.<br><br>**Status:** planned / early development. Coming soon. |
+| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/videomaker.png" alt="VideoMAKER logo" width="104"> | **VideoMAKER**<br>Automated match editing and highlights from clips, presets and tagged events.<br><br>**Status:** planned / early development. Coming soon. |
 
 ## Why PlayMAKER?
 
