@@ -6,15 +6,17 @@
 
 <p align="center"><strong>Bringing Tech to Every Team, Every Level, Every Sport.</strong></p>
 
-<p align="center">An open-source ecosystem of customizable tools for sports teams of every size — from grassroots clubs to professional organizations.</p>
+<p align="center">An open-source ecosystem of customizable tools for sports teams of every size, from grassroots clubs to professional organizations.</p>
+
+<p align="center"><a href="https://playmaker-apps.github.io/">Visit the PlayMAKER website</a></p>
 
 ## Our tools
 
 | Logo | Project |
 | :---: | :--- |
-| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/webmaker.png" alt="WebMAKER logo" width="104"> | **WebMAKER**<br>Customizable sports websites with club content, match results and statistics, plus a desktop publishing studio.<br><br>**Status:** beta testing on Nerone Basket Anzio. Explore the [pilot code](https://github.com/mich1803/nerone-basket-anzio). A standalone WebMAKER release is not available yet. |
-| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/tagmaker.png" alt="TagMAKER logo" width="104"> | **TagMAKER**<br>Lightweight manual sports-video tagging with configurable event levels and exportable match data.<br><br>**Status:** planned / early development. Coming soon. |
-| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/videomaker.png" alt="VideoMAKER logo" width="104"> | **VideoMAKER**<br>Automated match editing and highlights from clips, presets and tagged events.<br><br>**Status:** planned / early development. Coming soon. |
+| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/webmaker.png" alt="WebMAKER logo" width="104"> | **[WebMAKER](https://playmaker-apps.github.io/products/webmaker/)**<br>Customizable sports websites with club content, match results and statistics, plus a desktop publishing studio.<br><br>**Status:** beta testing on [Nerone Basket Anzio](https://nerone-basket.github.io/). Explore the [pilot code](https://github.com/nerone-basket/nerone-basket.github.io). A standalone WebMAKER release is not available yet. |
+| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/tagmaker.png" alt="TagMAKER logo" width="104"> | **[TagMAKER](https://playmaker-apps.github.io/products/tagmaker/)**<br>Offline manual sports-video tagging, WebMAKER roster import, player-statistics export, and versioned JSON data.<br><br>**Status:** 0.1 alpha source is public in the [TagMAKER repository](https://github.com/PlayMAKER-apps/tagmaker). A Windows installer is still being prepared. |
+| <img src="https://raw.githubusercontent.com/PlayMAKER-apps/.github/main/profile/assets/videomaker.png" alt="VideoMAKER logo" width="104"> | **[VideoMAKER](https://playmaker-apps.github.io/products/videomaker/)**<br>Planned match editing and highlights from clips, presets and tagged events.<br><br>**Status:** early development. Follow the [VideoMAKER repository](https://github.com/PlayMAKER-apps/videomaker); no application release is available yet. |
 
 ## Why PlayMAKER?
 
@@ -28,4 +30,4 @@
 
 Follow the [PlayMAKER GitHub organization](https://github.com/PlayMAKER-apps) for project updates. Where a project's repository is available and accepts contributions, use its Issues and Pull Requests to share feedback or propose changes.
 
-The [official website repository](https://github.com/PlayMAKER-apps/PlayMAKER-apps.github.io) holds the future PlayMAKER site.
+Explore the tools, tutorials and roadmap on the [PlayMAKER website](https://playmaker-apps.github.io/).
