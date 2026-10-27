@@ -26,6 +26,16 @@
 - **Open source:** Project code and progress are shared through public repositories as they become available.
 - **Core features without mandatory AI:** Essential workflows are designed to work without requiring AI services.
 
+## Attribution appreciated
+
+If a PlayMAKER tool helps you create a site, post, video or match analysis, a credit is appreciated but optional. Please link both the tool and PlayMAKER when you choose to credit us:
+
+- [WebMAKER](https://github.com/PlayMAKER-apps/webmaker) by [PlayMAKER](https://github.com/PlayMAKER-apps)
+- [TagMAKER](https://github.com/PlayMAKER-apps/tagmaker) by [PlayMAKER](https://github.com/PlayMAKER-apps)
+- [VideoMAKER](https://github.com/PlayMAKER-apps/videomaker) by [PlayMAKER](https://github.com/PlayMAKER-apps)
+
+This request does not add a license condition to content created with the tools. If you redistribute software, follow the license and notice requirements in its repository.
+
 ## Get involved
 
 Follow the [PlayMAKER GitHub organization](https://github.com/PlayMAKER-apps) for project updates. Where a project's repository is available and accepts contributions, use its Issues and Pull Requests to share feedback or propose changes.
